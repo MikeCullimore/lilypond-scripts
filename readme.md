@@ -14,7 +14,7 @@ To run Lilypond with an input file `test.ly`, saving to a folder `folder`, do:
 lilypond --svg --output=folder test.ly
 ```
 
-## Sumarry of relevant Lilypond notation
+## Summary of relevant Lilypond notation
 
 ### Pitch
 
@@ -32,11 +32,13 @@ lilypond --svg --output=folder test.ly
 
 ## todo
 
+* Automate compiling `*.ly` files to image outputs?
+* Generate `*.ly` files programmatically from template (to handle e.g. version, removing tagline).
+    * Possible to import common config from separate file?
 * Summarise notation for duration.
-* Remove time signature and bar lines.
 * Extend to guitar: chord diagrams and strum rhythms.
-* Possible to import common config from separate file?
 * Improve SVG output:
     * Remove metadata e.g. file paths.
-    * Make the images compatible with React. Workaround hack: compress the SVG using [this site](https://jakearchibald.github.io/svgomg/) (default settings) as suggested in [this post](https://github.com/facebook/create-react-app/issues/11770)
-    * Remove page footer then crop to content (not page of A4!).
+    * Make the images compatible with React. Workaround hack: compress the SVG using [this site](https://jakearchibald.github.io/svgomg/) (default settings) as suggested in [this post](https://github.com/facebook/create-react-app/issues/11770). Use [SVGO](https://github.com/svg/svgo) directly?
+    * Crop to content (not page of A4!).
+        * Suggestions [here](https://superuser.com/questions/96970/lilypond-is-there-a-way-to-auto-crop-the-paper) including `#(ly:set-option 'crop #t)` which does crop as desired but appends ".cropped" to the filename. Use this, delete the original filename then remove the ".cropped"?
