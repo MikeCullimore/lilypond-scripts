@@ -1,3 +1,5 @@
+\include "template-inputs-test.ly"
+
 % Crop SVG to content.
 #(ly:set-option 'crop #t)
 
@@ -9,12 +11,10 @@
 }
 
 scale = \relative {
-    \key c \major
-    \clef bass
+    \Key
+    \Clef
     \override Fingering.direction = #DOWN
-
-    c8-5 d e f g-1 a-3 b c-1
-    b a-3 g-1 f e d c4-5
+    \Scale
 }
 
 \score {
