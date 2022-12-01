@@ -34,7 +34,8 @@ lilypond --svg --output=folder test.ly
 
 * Switch to templates:
     * Template for each scale.
-    * Script to pass each one into the template and output right filename.
+    * Script (bash?) to pass each one into the template and output right filename.
+    * Common config file e.g. crop to content, remove Lilypond tagline.
 * Automate compiling `*.ly` files to image outputs?
 * Summarise notation for duration.
 * Extend to guitar: chord diagrams and strum rhythms.
