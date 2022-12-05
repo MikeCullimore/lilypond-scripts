@@ -1,51 +1,37 @@
 % https://lilypond.org/doc/v2.21/Documentation/snippets/rhythms#rhythms-guitar-strum-rhythms
 
-% Crop SVG to content.
-#(ly:set-option 'crop #t)
+\version "2.22.2" % TODO: can this be defined via common include?
 
+\include "../common.ly"
 \include "predefined-guitar-fretboards.ly"
 
-\version "2.22.2"
-
-\header {
-    % Remove default LilyPond tagline
-    tagline = ##f
-}
+% TODO: pass in chords and rhythm as variables.
+% (Using \Chords below throws error: why?)
+% Chords = { c1 | g | a:m | f }
+Rhythm = { c4 c8 c8 c4 c8 c8 }
 
 <<
   \new ChordNames {
     \chordmode {
-      c1 | f | g | c
+      % \Chords % TODO: why does this throw an error? Make it work!
+      c1 | g | a:m | f
     }
   }
   \new FretBoards {
     \chordmode {
-      c1 | f | g | c
+      % \Chords
+      c1 | g | a:m | f
     }
   }
   \new Voice \with {
     \consists "Pitch_squash_engraver"
   } {
-    \relative c'' {
+    {
       \improvisationOn
-      c4 c8 c c4 c8 c
-      f4 f8 f f4 f8 f
-      g4 g8 g g4 g8 g
-      c4 c8 c c4 c8 c
-    }
-  }
-  \new Voice = "melody" {
-    \relative c'' {
-      c2 e4 e4
-      f2. r4
-      g2. a4
-      e4 c2.
-    }
-  }
-  \new Lyrics {
-    \lyricsto "melody" {
-      This is my song.
-      I like to sing.
+      \Rhythm
+      \Rhythm
+      \Rhythm
+      \Rhythm
     }
   }
 >>

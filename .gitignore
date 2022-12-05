@@ -1,2 +1,6 @@
 *.png
 *.svg
+
+tmp_backup/
+
+.vscode

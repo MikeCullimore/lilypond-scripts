@@ -35,7 +35,6 @@ lilypond --svg --output=folder test.ly
 * Switch to templates:
     * Template for each scale.
     * Script (bash?) to pass each one into the template and output right filename.
-    * Common config file e.g. crop to content, remove Lilypond tagline.
 * Automate compiling `*.ly` files to image outputs?
 * Summarise notation for duration.
 * Extend to guitar: chord diagrams and strum rhythms.
@@ -44,3 +43,6 @@ lilypond --svg --output=folder test.ly
     * Make the images compatible with React. Workaround hack: compress the SVG using [this site](https://jakearchibald.github.io/svgomg/) (default settings) as suggested in [this post](https://github.com/facebook/create-react-app/issues/11770). Use [SVGO](https://github.com/svg/svgo) directly?
     * Crop to content (not page of A4!).
         * Suggestions [here](https://superuser.com/questions/96970/lilypond-is-there-a-way-to-auto-crop-the-paper) including `#(ly:set-option 'crop #t)` which does crop as desired but appends ".cropped" to the filename. Use this, delete the original filename then remove the ".cropped"?
+* Understand structure of `predefined-guitar-fretboards.ly` and exploit Lilypond features as it does.
+    * Read up on [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)).
+* Experiment with [Lilypond event listener](https://lilypond.org/doc/v2.21/Documentation/notation/saving-music-events-to-a-file) to write music events to file.
