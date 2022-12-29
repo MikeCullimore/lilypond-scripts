@@ -1,19 +1,11 @@
-\include "template-inputs-test.ly"
-
-% Crop SVG to content.
-#(ly:set-option 'crop #t)
-
 \version "2.22.2"
 
-\header {
-    % Remove default LilyPond tagline
-    tagline = ##f
-}
+\include "../common.ly"
+\include "template-inputs.ly"
 
 scale = \relative {
     \Key
     \Clef
-    \override Fingering.direction = #DOWN
     \Scale
 }
 

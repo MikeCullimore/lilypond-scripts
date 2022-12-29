@@ -3,8 +3,17 @@ Generate guitar exercise sheet music from given chords and strumming pattern.
 
 todo:
 Generate different chords (common four chord progressions in random key?)
+    Lookup of valid chord names (enums?). How best to organise into keys?
+    Generalise to other progressions e.g. 12 bar blues.
+    Add Nashville chord numbers to output?
 Generate different rhythms (discuss with Andrew).
-Generalise to other progressions e.g. 12 bar blues.
+    Time signatures.
+    Rests.
+    Different pattern each bar? (Requires new template.)
+Adapt this to suit piano scales also (share common code).
+Optimise the SVG for use in React app.
+    Remove all links (contain file paths). Simple regex like sed?
+Port to Typescript?
 """
 
 
