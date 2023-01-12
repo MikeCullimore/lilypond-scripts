@@ -1,0 +1,614 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="161.00mm" height="28.90mm" viewBox="8.5358 -1.5420 91.6186 16.4466">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(78.9962, 11.3546)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.5358, 13.3546)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="91.5686" y2="0"/>
+</g>
+<g transform="translate(8.5358, 12.3546)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="91.5686" y2="0"/>
+</g>
+<g transform="translate(8.5358, 11.3546)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="91.5686" y2="0"/>
+</g>
+<g transform="translate(8.5358, 10.3546)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="91.5686" y2="0"/>
+</g>
+<g transform="translate(8.5358, 9.3546)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="91.5686" y2="0"/>
+</g>
+<g transform="translate(99.9645, 11.3546)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(37.0598, 11.3546)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(58.0280, 11.3546)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:26:27">
+<g transform="translate(76.1488, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:20:21">
+<g transform="translate(69.1182, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.2985, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:23:24">
+<g transform="translate(73.2335, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(69.1832, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(76.2138, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:37:38">
+<g transform="translate(80.1405, 0.4042)">
+<text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:37:38">
+<g transform="translate(78.8112, 1.9462)">
+<path stroke-width="0.1000" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0 0.6000C0.6000 0.2000 4.4000 0.2000 5.0000 0.6000C4.4000 0.1000 0.6000 0.1000 0 0.6000z"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="4.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="3.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="5.0000" y2="0"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="5.0000" y2="1.0000"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="5.0000" y2="2.0000"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="5.0000" y2="3.0000"/>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="5.0000" y2="4.0000"/>
+</g>
+<g transform="translate(78.8112, 2.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(78.3844, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(79.8112, 4.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(79.3844, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(80.8112, 4.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(80.3844, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+</g>
+<g transform="translate(81.8112, 3.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(81.3844, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+<g transform="translate(82.8112, 2.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(82.3844, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(83.8112, 2.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(83.3844, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(78.8112, 1.9462)">
+<rect x="-0.0250" y="-0.1250" width="5.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:11:12">
+<g transform="translate(80.1405, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(80.2055, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:31:32">
+<g transform="translate(57.7850, 1.9462)">
+<rect x="4.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="3.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="5.0000" y2="0"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="5.0000" y2="1.0000"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="5.0000" y2="2.0000"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="5.0000" y2="3.0000"/>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="5.0000" y2="4.0000"/>
+</g>
+<g transform="translate(59.7850, 3.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(59.3582, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+<g transform="translate(60.7850, 3.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(60.3582, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(61.7850, 2.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(61.3582, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(57.7850, 1.9462)">
+<rect x="-0.0250" y="-0.1250" width="5.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(57.4777, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>X</tspan>
+</text>
+</g>
+<g transform="translate(58.4435, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+<g transform="translate(62.4435, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:11:12">
+<g transform="translate(59.1723, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(59.2373, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:14:15">
+<g transform="translate(63.2876, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.3526, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:17:18">
+<g transform="translate(66.2029, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.2679, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:26:27">
+<g transform="translate(97.1170, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(97.1820, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(94.2017, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(84.2558, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(73.2335, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(63.2876, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(52.2652, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(42.3193, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(31.2970, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(21.3511, 14.3546)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0053 -0.2000 3.0053 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:14:15">
+<g transform="translate(84.2558, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(84.3208, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:17:18">
+<g transform="translate(87.1711, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(87.2361, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:20:21">
+<g transform="translate(90.0864, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.1514, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:23:24">
+<g transform="translate(94.2017, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(94.2667, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:31:32">
+<g transform="translate(59.1723, 0.4042)">
+<text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+<g transform="translate(60.9477, 0.4042)">
+<text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:26:27">
+<g transform="translate(34.2123, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.2773, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(31.3620, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:27:28">
+<g transform="translate(38.2040, 0.4042)">
+<text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:27:28">
+<g transform="translate(36.8748, 1.9462)">
+<rect x="4.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="3.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="5.0000" y2="0"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="5.0000" y2="1.0000"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="5.0000" y2="2.0000"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="5.0000" y2="3.0000"/>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="5.0000" y2="4.0000"/>
+</g>
+<g transform="translate(36.8748, 4.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(36.4480, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+<g transform="translate(37.8748, 3.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(37.4480, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(41.8748, 4.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(41.4480, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(36.8748, 1.9462)">
+<rect x="-0.0250" y="-0.1250" width="5.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(38.5333, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+<g transform="translate(39.5333, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+<g transform="translate(40.5333, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:11:12">
+<g transform="translate(38.2040, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.2690, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(17.3008, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:14:15">
+<g transform="translate(21.3511, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(21.4161, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:17:18">
+<g transform="translate(24.2664, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.3314, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:20:21">
+<g transform="translate(27.1817, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.2467, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:23:24">
+<g transform="translate(31.2970, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.3302, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:20:21">
+<g transform="translate(48.1499, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.2149, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="2.2833" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:23:24">
+<g transform="translate(52.2652, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:26:27">
+<g transform="translate(55.1805, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.2455, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:11:12">
+<g transform="translate(17.2358, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.5358, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M359 27c-49 0 -75 42 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12c0 -94 -105 -174 -183 -174c-68 0 -137 21 -184 70
+c-49 51 -66 122 -66 193s17 142 66 193c47 49 116 69 184 69c87 0 160 -63 175 -149c1 -5 1 -10 1 -14c0 -40 -30 -72 -67 -72z" fill="currentColor"/>
+</g>
+<g transform="translate(9.3358, 12.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:14:15">
+<g transform="translate(42.3193, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.3843, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:22:23">
+<g transform="translate(15.8485, 1.9462)">
+<rect x="4.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="3.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="5.0000" y2="0"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="5.0000" y2="1.0000"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="5.0000" y2="2.0000"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="5.0000" y2="3.0000"/>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="5.0000" y2="4.0000"/>
+</g>
+<g transform="translate(16.8485, 4.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(16.4217, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(17.8485, 3.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(17.4217, 8.2705)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+</g>
+<g transform="translate(19.8485, 2.5462)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<g transform="translate(19.4217, 8.2363)">
+<text font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+</g>
+<g transform="translate(15.8485, 1.9462)">
+<rect x="-0.0250" y="-0.1250" width="5.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+</g>
+<g transform="translate(15.5412, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>X</tspan>
+</text>
+</g>
+<g transform="translate(18.5071, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+<g transform="translate(20.5071, 1.6212)">
+<text font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:1:22:23">
+<g transform="translate(17.2358, 0.4042)">
+<text font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/mike/code/lilypond-scripts/guitar/guitar-strum-rhythms-inputs.ly:2:17:18">
+<g transform="translate(45.2346, 11.3546)">
+<path transform="scale(0.0040, -0.0040)" d="M10 -263c-8 0 -13 9 -9 16l309 505c2 3 6 5 9 5h100c8 0 12 -9 8 -16l-308 -505c-2 -3 -6 -5 -9 -5h-100z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.2996, 11.3546)">
+<rect x="-0.0650" y="1.0500" width="0.1300" height="1.9500" ry="0.0400" fill="currentColor"/>
+</g>
+</svg>
