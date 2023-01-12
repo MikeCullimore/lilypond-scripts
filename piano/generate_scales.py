@@ -7,6 +7,7 @@ Right a few more manually and extract commonalities.
 Start with C major left and right hands.
 Generate all scales, arepggios and broken chords in Trinity book.
 Use interval pattern, apply to given keys.
+    And/or exploit Lilypond transpose command.
 Permute the letters starting on given root.
 Add fingering.
 """

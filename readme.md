@@ -16,6 +16,8 @@ lilypond --svg --output=folder test.ly
 
 ## Summary of relevant Lilypond notation
 
+See [cheat sheet](https://lilypond.org/doc/v2.23/Documentation/notation/cheat-sheet).
+
 ### Pitch
 
 * Clef defaults to treble. For bass clef add `\clef bass`.
