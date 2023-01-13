@@ -23,9 +23,7 @@ def main():
 
     template = 'template-piano-scale.ly'
     template_inputs = 'template-inputs.ly'
-    format = 'svg'  # works
-    # format = 'png'  # fails
-    commands = ['lilypond', f'--format={format}', f'--output={folder}', template]
+    commands = ['lilypond', '--svg', f'--output={folder}', '-dno-point-and-click', template]
 
     for input in inputs:
         print(f'{input}')

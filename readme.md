@@ -2,6 +2,8 @@
 
 Goal: generate sheet music for piano sight reading app.
 
+See also the [Node/TypeScript alternative](https://github.com/MikeCullimore/lilypond-ts).
+
 ## Setup
 
 Download GNU Lilypond [here](https://lilypond.org/download.html).
