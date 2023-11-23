@@ -24,10 +24,10 @@ common = {
 right = \relative {
     \common
     \clef treble
-    g8 a b c d e fis
-    g a b c d e fis
-    g fis e d c b a
-    g fis e d c b a
+    g8-1 a b c-1 d e fis
+    g-1 a b-3 c-1 d e fis
+    g-5 fis e d c-1 b-3 a
+    g-1 fis-4 e d c-1 b-3 a
     g4
 }
 

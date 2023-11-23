@@ -20,31 +20,33 @@ import subprocess
 def main():
     folder = 'scales'
     inputs = find_lilypond_files(folder)
+    print(f"Found {len(inputs)} files.")
 
     template = 'template-piano-scale.ly'
     template_inputs = 'template-inputs.ly'
     commands = ['lilypond', '--svg', f'--output={folder}', '-dno-point-and-click', template]
 
     for input in inputs:
-        print(f'{input}')
+        print(f'Input: {input}')
         
         # Copy input to template inputs.
-        print('Copy to template inputs.')
+        print(f'Copy: {input} to {template_inputs}')
         shutil.copy2(input, template_inputs)
         
         # Compile via Lilypond.
-        print('Compile.')
+        print(f"Running commands: {commands}")
         subprocess.run(commands)
 
         # Remove cropped from filename and delete uncropped.
-        print('Replace original with cropped.')
         svg = input.replace('.ly', '.svg')
         cropped = svg.replace('.svg', '.cropped.svg')
+        print(f"Deleting {svg}")
         delete_file(svg)
+        print(f"Renaming {cropped} to {svg}")
         shutil.move(cropped, svg)
 
 def find_lilypond_files(folder):
-    return glob.glob(os.path.join(folder, '*.ly'))
+    return glob.glob(os.path.join(folder, '**/*.ly'), recursive=True)
 
 def delete_file(path):
     try:
