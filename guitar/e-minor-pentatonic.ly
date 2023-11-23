@@ -3,13 +3,15 @@
 \include "../common.ly"
 
 staffMusic = \relative {
-  e g-2 a b-1 d
+  \key e \minor
+  e8 g-2 a b-1 d
   e-1 g a-1 b d-2
   e g-2
 }
 
 % TAB is deliberately shown an octave above to reduce ledger lines.
 tabMusic = \relative {
+  \key e \minor
   e, g a b d
   e g a b d
   e g
