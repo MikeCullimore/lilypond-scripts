@@ -8,7 +8,17 @@ See also the [Node/TypeScript alternative](https://github.com/MikeCullimore/lily
 
 Download GNU Lilypond [here](https://lilypond.org/download.html).
 
-## How to call Lilypond
+## Run via CLI
+
+Use the CLI provided to get just the cropped output e.g.:
+
+```bash
+python cli.py guitar/e-minor-blues.ly --svg --png
+```
+
+(note this also generates both SVG and PNG output in one call).
+
+## Call Lilypond directly
 
 To run Lilypond with an input file `test.ly`, saving to a folder `folder`, do:
 
@@ -45,14 +55,10 @@ See [cheat sheet](https://lilypond.org/doc/v2.23/Documentation/notation/cheat-sh
 * Switch to templates:
     * Template for each scale.
     * Script (bash?) to pass each one into the template and output right filename.
-* Automate compiling `*.ly` files to image outputs?
 * Summarise notation for duration.
-* Extend to guitar: chord diagrams and strum rhythms.
 * Improve SVG output:
     * Remove metadata e.g. file paths.
     * Make the images compatible with React. Workaround hack: compress the SVG using [this site](https://jakearchibald.github.io/svgomg/) (default settings) as suggested in [this post](https://github.com/facebook/create-react-app/issues/11770). Use [SVGO](https://github.com/svg/svgo) directly?
-    * Crop to content (not page of A4!).
-        * Suggestions [here](https://superuser.com/questions/96970/lilypond-is-there-a-way-to-auto-crop-the-paper) including `#(ly:set-option 'crop #t)` which does crop as desired but appends ".cropped" to the filename. Use this, delete the original filename then remove the ".cropped"?
 * Understand structure of `predefined-guitar-fretboards.ly` and exploit Lilypond features as it does.
     * Read up on [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)).
 * Experiment with [Lilypond event listener](https://lilypond.org/doc/v2.21/Documentation/notation/saving-music-events-to-a-file) to write music events to file.

@@ -3,6 +3,8 @@ lilypond.py
 
 http://lilypond.org/text-input.html
 
+Prefer cli.py, keeping this only for the notes.
+
 todo:
 Is there any advantage to doing this via Python? Just create Lilypond inputs in a text editor and call directly.
 Generate images of all piano scales in Trinity book, with fingering, over two octaves (or more as required). 
