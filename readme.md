@@ -52,6 +52,7 @@ See [cheat sheet](https://lilypond.org/doc/v2.23/Documentation/notation/cheat-sh
 
 ## todo
 
+* Typeset remaining guitar scales from [Andrew's PDF](https://drive.google.com/drive/folders/19HwoVB7nI3g2g4spJ97pDZQ8WDvfzznN)
 * Switch to templates:
     * Template for each scale.
     * Script (bash?) to pass each one into the template and output right filename.
