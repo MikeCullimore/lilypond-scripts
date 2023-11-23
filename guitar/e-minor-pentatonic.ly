@@ -8,6 +8,7 @@ staffMusic = \relative {
   e g-2
 }
 
+% TAB is deliberately shown an octave above to reduce ledger lines.
 tabMusic = \relative {
   e, g a b d
   e g a b d

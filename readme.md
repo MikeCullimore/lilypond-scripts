@@ -12,8 +12,14 @@ Download GNU Lilypond [here](https://lilypond.org/download.html).
 
 To run Lilypond with an input file `test.ly`, saving to a folder `folder`, do:
 
-```
+```bash
 lilypond --svg --output=folder test.ly
+```
+
+For PNG output at e.g. 500 DPI:
+
+```bash
+lilypond --png -dresolution=500 test.ly
 ```
 
 ## Summary of relevant Lilypond notation
